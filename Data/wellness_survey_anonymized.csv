@@ -1,0 +1,36 @@
+What is your age group?,How often do you feel stressed?,What affects your mental wellness most?,Would you use an AI wellness assistant?,Which feature would help you most?,Do you trust AI for wellness suggestions?,What tone should the assistant use?
+18-22,daily,studies,Yes,Mood tracking,Yes,Friendly
+18-22,weekly,studies,Maybe,Stress relief exercises,Yes,Friendly
+18-22,sometimes,studies,Maybe,Sleep improvement tips,Somewhat,Calm
+18-22,sometimes,Financial stress,Maybe,Mood tracking,Yes,Friendly
+18-22,rarely,Financial stress,Maybe,Meditation reminders,Somewhat,Friendly
+18-22,rarely,Financial stress,No,Stress relief exercises,Yes,Calm
+18-22,weekly,sleep problems,Maybe,Sleep improvement tips,Somewhat,Friendly
+18-22,weekly,work pressures,Yes,Mood tracking,Yes,Motivational
+18-22,daily,studies,Maybe,Stress relief exercises,Somewhat,Friendly
+18-22,daily,work pressures,Maybe,Meditation reminders,Yes,Friendly
+18-22,sometimes,work pressures,No,Stress relief exercises,No,Professional
+31-40,sometimes,social issues,Maybe,Stress relief exercises,Yes,Motivational
+18-22,weekly,studies,Maybe,Mood tracking,Somewhat,Friendly
+18-22,sometimes,Financial stress,Maybe,Stress relief exercises,Yes,Professional
+23-30,sometimes,work pressures,Maybe,Meditation reminders,Somewhat,Calm
+23-30,rarely,sleep problems,Yes,Sleep improvement tips,Somewhat,Calm
+31-40,rarely,sleep problems,Yes,Sleep improvement tips,Yes,Motivational
+above 40,sometimes,sleep problems,Maybe,Sleep improvement tips,Yes,Motivational
+18-22,sometimes,social issues,Yes,Mood tracking,Somewhat,Friendly
+31-40,weekly,work pressures,Yes,Stress relief exercises,Somewhat,Professional
+18-22,sometimes,social issues,No,Sleep improvement tips,No,Calm
+23-30,daily,Financial stress,Maybe,Stress relief exercises,Yes,Friendly
+18-22,sometimes,sleep problems,Yes,Stress relief exercises,Yes,Friendly
+18-22,rarely,social issues,No,Mood tracking,No,Calm
+18-22,rarely,studies,Yes,Sleep improvement tips,Yes,Friendly
+18-22,daily,sleep problems,Yes,Mood tracking,Yes,Friendly
+18-22,daily,studies,Yes,Stress relief exercises,Yes,Friendly
+18-22,sometimes,Financial stress,Yes,Meditation reminders,Somewhat,Friendly
+18-22,sometimes,Financial stress,Maybe,Stress relief exercises,Yes,Friendly
+above 40,sometimes,work pressures,Maybe,Stress relief exercises,Yes,Friendly
+18-22,sometimes,studies,Yes,Stress relief exercises,Somewhat,Friendly
+18-22,sometimes,studies,Maybe,Meditation reminders,Somewhat,Professional
+18-22,sometimes,studies,Maybe,Mood tracking,Somewhat,Friendly
+18-22,sometimes,studies,Maybe,Meditation reminders,Somewhat,Friendly
+18-22,rarely,studies,Maybe,Meditation reminders,Somewhat,Friendly
